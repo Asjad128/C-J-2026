@@ -2,10 +2,11 @@
 
 ## Today's Activity
 * Established the public accountability framework repository.
-* Map out the foundational curriculum for the DevOps transition.
+* Done some easy and initial DSA problems with java.
 
 ## Blockers & Hard Concepts
-* Defining a realistic scope for a 6-month career transition while balancing active backend engineering responsibilities.
+* Creating a proper readme content, and solving DSA logics.
 
 ## DSA Honest Assessment
-* "Right now, my DSA skills are solid on arrays and strings, but I struggle to optimize time complexity efficiently when approaching complex tree or graph algorithms under pressure."
+* "two-sum was simple, when i ran nested loops through arrays in i and j i got the target indices. the hard part of it was to choose correct logic for it and to select correct loop range.
+    Valid anagram: it was not simple, then once i understook it, I can able to easily solve it. though part when to compare the 2 strings after sorting. so i used toArray() then used arrays.equals()"
