@@ -10,4 +10,4 @@
 
 ## DSA Honest Assessment
 * "contains duplicates was an easy task, I have remembered the thing, 'I have seen it' or 'I have not seen it' this difference make it able to solve this problem".
-* "buy and sell stock was a bit confusing, so I left it for next day"
+* "buy and sell stock was a bit confusing, so I left it for next day and will continue it"git 
