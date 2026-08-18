@@ -11,3 +11,5 @@ Welcome to my tracking repository for my technical evolution in 2026. This repos
 ## Progress Log
 * [August 16, 2026] - [Day 1: Initializing the Journey](./daily-logs/day-01.md)
 * [August 17, 2026] - [Day 2: Completed second day on DSA and resume update](./daily-logs/day-02.md)
+* [August 18, 2026] - [Day 3: anagram & contains duplicate updation](./daily-logs/day-03.md)
+
