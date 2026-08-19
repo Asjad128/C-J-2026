@@ -1,11 +1,12 @@
-import java.util.ArrayList;
-import java.util.List;
+
+import java.util.HashSet;
+import java.util.Set;
 
 public class containsduplicate{
 
     static boolean duplicates(int[] arr){
 
-        List<Integer> list = new ArrayList<>();
+        Set<Integer> list = new HashSet <>();
         for (int i: arr){
             if (list.contains(i)){
                 return true;
