@@ -9,4 +9,4 @@
 
 ## DSA Honest Assessment
 * "Individual phases of linux scripting made me understand concepts individually and easily"
-* 
+* "Improved the stock buy sell problem, by adding a linear check through single loop"
