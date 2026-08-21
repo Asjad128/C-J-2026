@@ -13,4 +13,7 @@ Welcome to my tracking repository for my technical evolution in 2026. This repos
 * [August 17, 2026] - [Day 2: Completed second day on DSA and resume update](./daily-logs/day-02.md)
 * [August 18, 2026] - [Day 3: anagram & contains duplicate updation](./daily-logs/day-03.md)
 * [August 20, 2026] - [Day 4: Linux Shell Scripting and DSA old problem performance enhancement](./daily-logs/day-04.md)
+* [August 21, 2026] - [Day 5: linux process/permission management & Linked list problem](./daily-logs/day-05.md)
+
+
 
